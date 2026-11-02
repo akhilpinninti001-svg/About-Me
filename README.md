@@ -2,7 +2,8 @@
 <!--                 PROFILE INTRODUCTION                  -->
 <!-- ===================================================== -->
 
-<div align="center">
+<div align="center"> 
+
 
 # Hi 👋, I'm Akhil Pinninti
 
